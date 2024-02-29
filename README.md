@@ -28,21 +28,3 @@ To prepare for the next best steps that Airbnb needs to take as a business, you 
 
 ![image](https://github.com/devendra2595/AirBnB_Case_Study_Data-Storytelling/assets/116253033/bcf06a8f-29a6-4b82-8e53-e6cfdaf5378d)
 
-
-# Data Sources : 
-1) Here is a snapshot of the data dictionary
-    - Orders information like unique order_id, order_item_id, order purchase-approval-delivery timestamp. etc
-    - Customer’s information like unique customer_id, zipcode, city and state
-    - Payment information like payment_value, payment_type etc.
-    - Product dimension and specification information like category, weight, length etc.
-    - Customer preference information like number of reviews and number of reviews per month
-2) The provided data is captured from the CRM tool used by ‘OList’. (till 17-10-2018 17:30).
-
-# Data Methodology :
-- Checked the data for any duplicate, null, insignificant values and cleaned using python.
-- Checked for outliers, as outliers were actual values, the values were kept as it is, instead used median as a measure of central tendency.
-- Merged the datasets for further analysis and performed EDA.
-- Created new dataset with only order_id and product_category for Market Basket Analysis.
-- Exported the cleaned datasets in Excel format to upload in Tableau.
-- Used Tableau for visualization of data and created appropriate calculated fields to get the insights.
-
