@@ -28,3 +28,14 @@ To prepare for the next best steps that Airbnb needs to take as a business, you 
 
 ![image](https://github.com/devendra2595/AirBnB_Case_Study_Data-Storytelling/assets/116253033/bcf06a8f-29a6-4b82-8e53-e6cfdaf5378d)
 
+
+# Recommendations to increase revenue:
+- Entire apt and Private rooms are major source of revenues. Emphasize on privacy on booking platform to improve conversion rate of entire apt or private room
+- Incorporating attractive incentive scheme for hosts based on availability and ratings could influence hosts to take ownership for maintaining availability and ratings on higher side.
+- Appointing executives to personally meet property hosts with zero reviewed property or very low availability and try to overcome the pain points for optimal resource management. Priority should be given to location wise popular areas. E.g. Private rooms from Brooklyn, Entire apt from
+Manhattan etc.
+- Create some sort of interaction between the Top 5 hosts to share their experience with the rest of the community for better improvement and value-generating ideas.
+- Incorporating a tier system for hosts having considerable number of listings, e.g. platinum, gold, silver etc. and additional benefits should be passed on based on the tier.
+- Referral scheme should be launched in order to acquire more hosts. The referral bonus should be higher where market penetration is low, e.g. Staten Island, Bronx.
+
+
