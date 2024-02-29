@@ -39,15 +39,10 @@ To prepare for the next best steps that Airbnb needs to take as a business, you 
 2) The provided data is captured from the CRM tool used by ‘OList’. (till 17-10-2018 17:30).
 
 # Data Methodology :
-- Checked and Cleaned the data for any duplicate, null, insignificant values.
-- Checked for outliers, as outliers were actual values, the values were kept as it is instead, used median as central measure.
+- Checked the data for any duplicate, null, insignificant values and cleaned using python.
+- Checked for outliers, as outliers were actual values, the values were kept as it is, instead used median as a measure of central tendency.
 - Merged the datasets for further analysis and performed EDA.
 - Created new dataset with only order_id and product_category for Market Basket Analysis.
 - Exported the cleaned datasets in Excel format to upload in Tableau.
 - Used Tableau for visualization of data and created appropriate calculated fields to get the insights.
-
-# Data Assumptions :
-- Only ‘delivered’ orders are considered for analysis.
-- order_purchased_timestamp< order_approved_at < order_delivered_timestamp.
-- Shipping charges given are assumed to be for individual product.
 
